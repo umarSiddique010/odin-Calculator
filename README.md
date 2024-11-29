@@ -11,7 +11,7 @@ This project is assignment project JavaScript Foundation section of The Odin Pro
   - Included a display area for showing inputs and results.
   - Used data attribute  
 
-- **CSS**  
+- **CSS**   
   - Styled buttons, layout, and display area for a clean look.  
   - Used grid layout for arranging buttons logically.  
   - Added hover effects for better interactivity.  
