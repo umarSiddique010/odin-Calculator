@@ -1,6 +1,5 @@
 # odin-Calculator
-This project is assignment project from HTML and CSS intermediate section of The Odin Projects. Although the Project is given by Odin by All the Functionality was created by me
-
+This project is assignment project from Foundation JavaScript section of The Odin Projects. Although the Project is given by Odin but All the Functionality, styles, Structures was originally created by me
 
 ### Skills Used in the Calculator Project
 
