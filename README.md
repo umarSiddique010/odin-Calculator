@@ -15,7 +15,7 @@ This project is assignment project from HTML and CSS intermediate section of The
 - **CSS**   
   - Styled buttons, layout, and display area for a clean look.  
   - Used grid layout for arranging buttons logically.  
-  - Added hover effects for better interactivity.  
+  - Added hover effects for better interactivity. 
 
 - **JavaScript**  
   - Handled button click events using event listeners.  
