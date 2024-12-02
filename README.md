@@ -1,5 +1,6 @@
 # odin-Calculator
-This project is assignment project JavaScript Foundation section of The Odin Projects 
+This project is assignment project from HTML and CSS intermediate section of The Odin Projects. Although the Project is given by Odin by All the Functionality was created by me
+
 
 ### Skills Used in the Calculator Project
 
@@ -23,8 +24,11 @@ This project is assignment project JavaScript Foundation section of The Odin Pro
   - Managed application state, including numbers, operators, and results.  
   - Added error handling for cases like division by zero.  
 
+
 - **Logic Building**  
   - Implemented sequential calculation logic (e.g., `12 + 7 - 3`).  
-  - Handled decimal inputs and restricted multiple decimals.  
-
+  - Handled decimal inputs and restricted multiple decimals.
+ 
+    
+## see my work live -> https://umarsiddique010.github.io/odin-Calculator/
 
