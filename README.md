@@ -13,7 +13,7 @@ This project is assignment project from Foundation JavaScript section of The Odi
 
 - **CSS**   
   - Styled buttons, layout, and display area for a clean look.  
-  - Used grid layout for arranging buttons logically.  
+  - Used grid layout for arranging buttons logically. 
   - Added hover effects for better interactivity. 
 
 - **JavaScript**  
